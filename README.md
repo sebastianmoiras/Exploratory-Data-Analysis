@@ -10,7 +10,8 @@ The main objective is to answer key **Business Questions (BQ)** such as:
 - How do shipping costs relate to order value and profitability?
 
 ## 📊 Key Insights
-- **Discounts above 50%** often lead to **negative profit**, especially in the Furniture category.  
+- **Discounts above 50%** often lead to **negative profit**, especially in the Furniture category.
+  <img width="1604" height="862" alt="image" src="https://github.com/user-attachments/assets/81ccddfe-dfd4-4b25-bfa7-a65e9ed49a1e" />
 - **Corporate customers** provide higher profit margins per order compared to Consumer and Home Office segments.  
 - **Technology** drives margins, while **Furniture** suffers from shipping costs.  
 - **Tables** are consistently **loss-making**; **Papers** and **Labels** are the strongest profit drivers.  
