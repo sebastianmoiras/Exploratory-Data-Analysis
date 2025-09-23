@@ -1,5 +1,9 @@
 title: "Exploratory Data Analysis - Global Superstore"
 description: >
-  Data Science Student @ Binus University
-
+  Business analytics project exploring the Global Superstore dataset 
+  to uncover insights on sales, profit, discounts, shipping costs, 
+  customer segments, and regional markets.
+author: "Jonathan Sebastian Moiras"
+github_username: sebastianmoiras
+show_downloads: false
 theme: jekyll-theme-minimal
