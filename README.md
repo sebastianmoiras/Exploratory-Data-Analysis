@@ -14,4 +14,4 @@ The main objective is to answer key **Business Questions (BQ)** such as:
 - **Corporate customers** provide higher profit margins per order compared to Consumer and Home Office segments.  
 - **Technology** drives margins, while **Furniture** suffers from shipping costs.  
 - **Tables** are consistently **loss-making**; **Papers** and **Labels** are the strongest profit drivers.  
-- **Shipping costs** strongly correlate with sales values, but not always with profitability — high-cost shipments can still generate losses. 
+- **Shipping costs** strongly correlate with sales values, but not always with profitability, high-cost shipments can still generate losses. 
